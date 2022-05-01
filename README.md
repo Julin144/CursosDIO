@@ -1,2 +1,2 @@
 # CursosDIO
-Esse repositorio tem como finalidade mostrar o desenvolvimento do que estou aprendendo durante um bootcamp na platarforma DIO.
+Esse repositório tem como finalidade mostrar o desenvolvimento do que estou aprendendo durante um bootcamp na plataforma DIO.
